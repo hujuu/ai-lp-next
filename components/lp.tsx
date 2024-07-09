@@ -37,14 +37,14 @@ export function Lp() {
               <p className="text-lg md:text-xl">配車管理SaaSで業務の効率化と生産性向上を実現</p>
               <div className="flex gap-4">
                 <Link
-                  href="#"
+                  href="https://tayori.com/form/002ac8b5cc58839153d94746659cf77c2067f956"
                   className="inline-flex h-10 items-center justify-center rounded-md bg-primary-foreground px-6 text-sm font-medium text-primary shadow transition-colors hover:bg-primary-foreground/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                   prefetch={false}
                 >
                   無料トライアル
                 </Link>
                 <Link
-                  href="#"
+                  href="https://tayori.com/form/002ac8b5cc58839153d94746659cf77c2067f956"
                   className="inline-flex h-10 items-center justify-center rounded-md border border-primary-foreground bg-primary px-6 text-sm font-medium text-primary-foreground shadow-sm transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                   prefetch={false}
                 >
@@ -53,7 +53,7 @@ export function Lp() {
               </div>
             </div>
             <img
-              src="/placeholder.svg"
+              src="/hero-image.webp"
               width="600"
               height="400"
               alt="Hero Image"
@@ -139,14 +139,14 @@ export function Lp() {
             <p className="text-lg md:text-xl">無料トライアルでサービスの機能と導入効果を体験できます。</p>
             <div className="flex justify-center gap-4">
               <Link
-                href="#"
+                href="https://tayori.com/form/002ac8b5cc58839153d94746659cf77c2067f956"
                 className="inline-flex h-10 items-center justify-center rounded-md bg-primary-foreground px-6 text-sm font-medium text-primary shadow transition-colors hover:bg-primary-foreground/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                 prefetch={false}
               >
                 無料トライアル
               </Link>
               <Link
-                href="#"
+                href="https://tayori.com/form/002ac8b5cc58839153d94746659cf77c2067f956"
                 className="inline-flex h-10 items-center justify-center rounded-md border border-primary-foreground bg-primary px-6 text-sm font-medium text-primary-foreground shadow-sm transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                 prefetch={false}
               >
